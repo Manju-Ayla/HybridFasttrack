@@ -36,3 +36,21 @@ build/
 
 ### Mac OS ###
 .DS_Store
+
+# Maven target folder
+/target/
+
+# IntelliJ IDEA project files
+.idea/
+*.iml
+
+# Logs and reports
+*.log
+test-output/
+screenshots/
+*.html
+*.xml
+
+# OS files
+.DS_Store
+Thumbs.db
